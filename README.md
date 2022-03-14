@@ -1,94 +1,52 @@
-### Hi there 👋
+![](img/banner.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3443BC&lines=Software+Dev+Intern;Open+Source+Advocate)](https://git.io/typing-svg)
 
-<!--
-**NADEE-MJ/NADEE-MJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ❓About Me
 
-Here are some ideas to get you started:
+- 💻 I'm a Software Development intern working for InfoMagnus
+- I'm still currently in 🏫 University and am studying Computer Science 📚
+- Currently learning flutter 🐦, dart 🎯 and python 🐍 for front and backend development
+- Trying to dive 🌊 into deeper python topics and become a power ⚡️ user
+- I use windows and arch (EndeavourOS), but currently prefer windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt=vscode" width="60" height="60"/>
+  </a>
+  <a href="https://www.python.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+  </a>
+  <a href="https://archlinux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
+  </a>
+  <a href="https://www.zsh.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="60" height="60"/>
+  </a>
+  <a href="https://www.cplusplus.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/>
+  </a>
+  <a href="https://dart.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="60" height="60"/>
+  </a>
+  <a href="https://flutter.dev">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="60" height="60"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="60" height="60"/>
+  </a>
+  <a href="https://www.markdownguide.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="60" height="60"/>
+  </a>
+</p>
+
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NADEE-MJ&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![Nadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=NADEE-MJ&hide_border=true&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NADEE-MJ&layout=compact&hide=makefile,cmake,c&theme=vision-friendly-dark&hide_border=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 199 Contributions in the Year 2022
- > 
-> 📦 29.9 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    75 commits     ███████░░░░░░░░░░░░░░░░░░   29.3% 
-🌆 Daytime    89 commits     ████████░░░░░░░░░░░░░░░░░   34.77% 
-🌃 Evening    89 commits     ████████░░░░░░░░░░░░░░░░░   34.77% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.77% 
-Tuesday      39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
-Wednesday    16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Thursday     36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
-Friday       48 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-Saturday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
-Sunday       54 commits     █████░░░░░░░░░░░░░░░░░░░░   21.09%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   4 repos             ██████████████░░░░░░░░░░░   57.14% 
-Makefile                 1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Dart                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Shell                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/NADEE-MJ/NADEE-MJ/main/charts/bar_graph.png) 
-
-
- Last Updated on 14/03/2022 04:42:00 UTC
 <!--END_SECTION:waka-->
