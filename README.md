@@ -49,7 +49,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NADEE-MJ&layout=compact&hide=makefile,cmake,c&theme=vision-friendly-dark&hide_border=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31%20Thousand%20lines%20of%20code-blue)
 
@@ -104,5 +104,5 @@ Shell                    1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 15/05/2022 18:47:48 UTC
+ Last Updated on 16/05/2022 18:51:38 UTC
 <!--END_SECTION:waka-->
