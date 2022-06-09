@@ -49,7 +49,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NADEE-MJ&layout=compact&hide=makefile,cmake,c&theme=vision-friendly-dark&hide_border=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31%20Thousand%20lines%20of%20code-blue)
 
@@ -80,14 +80,14 @@ Sunday       66 commits     █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      2 hrs 6 mins        ████████████░░░░░░░░░░░░░   49.79% 
-JavaScript               1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   32.03% 
-Markdown                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
-Blade Template           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
+PHP                      2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.24% 
+JavaScript               1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   29.28% 
+Markdown                 1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.13% 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
+Blade Template           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56%
 
 🔥 Editors: 
-VS Code                  4 hrs 13 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 54 mins       █████████████████████████   100.0%
 
 ```
 
@@ -103,5 +103,5 @@ Shell                    1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 08/06/2022 18:47:39 UTC
+ Last Updated on 09/06/2022 18:47:04 UTC
 <!--END_SECTION:waka-->
