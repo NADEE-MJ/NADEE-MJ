@@ -44,10 +44,6 @@
 
 ### 📈 My Github Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NADEE-MJ&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-![Nadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=NADEE-MJ&hide_border=true&show_icons=true&theme=vision-friendly-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NADEE-MJ&layout=compact&hide=makefile,cmake,c&theme=vision-friendly-dark&hide_border=true)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2058%20mins-blue)
 
