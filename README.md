@@ -3,7 +3,7 @@
 
 ### ❓About Me
 
-- 💻 I'm a Software Development Intern working for CI Solutions
+- 💻 I'm a Junior Software Engineer working for CI Solutions
 - I'm still currently in 🏫 University and am studying Computer Science 📚
 - Currently learning flutter 🐦, dart 🎯 and python 🐍 for front and backend development
 - Trying to dive 🌊 into deeper python topics and become a power ⚡️ user
