@@ -3,11 +3,12 @@
 
 ### ❓About Me
 
-- 💻 I'm a Junior Software Engineer working for CI Solutions
+- 💻 I'm a Junior Software Engineer working for CI Solutions, our stack includes Laravel, React, and MySQL.
 - I'm still currently in 🏫 University and am studying Computer Science 📚
-- Currently learning flutter 🐦, dart 🎯 and python 🐍 for front and backend development
-- Trying to dive 🌊 into deeper python topics and become a power ⚡️ user
-- I use windows and arch (EndeavourOS), but currently prefer windows
+- I use windows and multiple linux flavors, currently arch (EndeavourOS).
+
+
+### 🔨Tools/Languages I have experience with
 
 <p align="center">
   <a href="https://code.visualstudio.com/">
@@ -28,11 +29,14 @@
   <a href="https://git-scm.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/>
   </a>
-  <a href="https://dart.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="60" height="60"/>
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>
   </a>
-  <a href="https://flutter.dev">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="60" height="60"/>
+  <a href="https://reactjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60"/>
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="60" height="60"/>
   </a>
   <a href="https://www.postgresql.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="60" height="60"/>
