@@ -1,5 +1,5 @@
 ![](img/banner.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3443BC&lines=Software+Dev+Intern;Open+Source+Advocate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3443BC&lines=Junior+Software+Engineer;Open+Source+Advocate)](https://git.io/typing-svg)
 
 ### ❓About Me
 
@@ -85,8 +85,4 @@ JavaScript               1 repo              ███░░░░░░░░�
 Shell                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 
 ```
-
-
-
- Last Updated on 03/07/2022 18:44:25 UTC
 <!--END_SECTION:waka-->
