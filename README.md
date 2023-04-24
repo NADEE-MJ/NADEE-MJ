@@ -1,5 +1,5 @@
 ![](img/banner.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3443BC&lines=Junior+Software+Engineer;Open+Source+Advocate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3443BC&lines=Jr+Software+Engineer;Open+Source+Advocate)](https://git.io/typing-svg)
 
 ### ❓About Me
 
