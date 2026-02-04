@@ -38,7 +38,7 @@ Currently exploring game development — building web-based social games and int
 
 ## 📊 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NADEE-MJ&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NADEE-MJ&theme=tokyo-night)
 ---
 
 <p align="center">
