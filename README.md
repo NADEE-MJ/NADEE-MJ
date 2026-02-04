@@ -1,5 +1,3 @@
-![](img/banner.png)
-
 ```typescript
 const developer = {
   role: "Solutions Architect & Full Stack Engineer",
