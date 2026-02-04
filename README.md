@@ -1,47 +1,58 @@
 ![](img/banner.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3443BC&lines=Jr+Software+Engineer;Open+Source+Advocate)](https://git.io/typing-svg)
 
-### ❓About Me
+```typescript
+const developer = {
+  role: "Solutions Architect & Full Stack Engineer",
+  focus: ["System Architecture", "Cloud Infrastructure", "Full Stack Development"],
+  currentlyBuilding: "Interactive web games and puzzle experiences",
+  philosophy: "Building robust systems that scale"
+};
+```
 
-- 💻 I'm a Junior Software Engineer working for CI Solutions, our stack includes Laravel, React, and MySQL.
-- I'm still currently in 🏫 University and am studying Computer Science 📚
-- I use windows and multiple linux flavors, currently arch (EndeavourOS).
+## 👨‍💻 What I Do
 
+I architect and build full-stack applications with a focus on cloud infrastructure and scalable systems. My work spans from crafting responsive frontends to designing serverless architectures and orchestrating complex data pipelines on AWS.
 
-### 🔨Tools/Languages I have experience with
+Recent technical highlights include building a distributed SFTP ingestion system with complete file tracking and processing visibility using Python, Bash, and AWS services.
+
+## 🛠️ Tech Stack
+
+**Backend & Languages**
+- PHP/Laravel | Python | TypeScript | Bash
+
+**Frontend**
+- React | TypeScript
+
+**Infrastructure & DevOps**
+- AWS (Lambda, S3, DynamoDB) | Terraform | SST | Docker | Ansible
+
+**Data**
+- MariaDB | DynamoDB | PostgreSQL
+
+**Tools & Workflow**
+- Git | Linux | VSCode
+
+## 🎮 Side Projects
+
+Currently exploring game development — building web-based social games and interactive puzzle experiences. Think Jackbox-style party games meets clever puzzle mechanics.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NADEE-MJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+---
 
 <p align="center">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt=vscode" width="60" height="60"/>
-  </a>
-  <a href="https://www.python.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-  </a>
-  <a href="https://archlinux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
-  </a>
-  <a href="https://www.zsh.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="60" height="60"/>
-  </a>
-  <a href="https://www.cplusplus.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60"/>
-  </a>
-  <a href="https://laravel.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="60" height="60"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="60" height="60"/>
-  </a>
-  <a href="https://www.markdownguide.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="60" height="60"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 </p>
